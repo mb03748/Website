@@ -111,14 +111,16 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+          <p>Get to know us a little bit better.</p>
         </header>
 
         <div class="row about-container">
 
           <div class="col-lg-6 content order-lg-1 order-2">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              Newbiz is a solution-oriented technology company. We help large scale enterprises, medium scale business, and startups to create strategic software products that drive revenue, reduce cost, and transform their businesses and market performance.
+
+              Through custom software we empower entrepreneurs, growth companies, enterprises and visionary firms to achieve greater profitability and efficiency, valuation and ultimate success by building the right tools.
             </p>
 
             <div class="icon-box wow fadeInUp">
@@ -135,8 +137,8 @@
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-bar-chart"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="">Data Insights</a></h4>
+              <p class="description">Provide data insights to our clients, so they can make stratergies that boost their performance. </p>
             </div>
 
           </div>
@@ -151,12 +153,9 @@
             <img src="img/about-extra-1.svg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 wow fadeInUp pt-5 pt-lg-0">
-            <h4>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h4>
+            <h4>No more technology barriers for your work.</h4>
             <p>
-              Ipsum in aspernatur ut possimus sint. Quia omnis est occaecati possimus ea. Quas molestiae perspiciatis occaecati qui rerum. Deleniti quod porro sed quisquam saepe. Numquam mollitia recusandae non ad at et a.
-            </p>
-            <p>
-              Ad vitae recusandae odit possimus. Quaerat cum ipsum corrupti. Odit qui asperiores ea corporis deserunt veritatis quidem expedita perferendis. Qui rerum eligendi ex doloribus quia sit. Porro rerum eum eum.
+              We believe that any business venture should never be held back due to the lack of technical execution. Let us handle the technical side of things while you focus on expanding your impact and realizing your mission in the digital space. we’ll be your technical co-founders, a natural extension of your team learning your operation inside and out. Using that understanding, we’ll tailor-make digital products that will drive success in your market.
             </p>
           </div>
         </div>
@@ -323,7 +322,7 @@
 
     <!--==========================
       Portfolio Section
-    ============================-->
+    ============================
     <section id="portfolio" class="clearfix">
       <div class="container">
 
@@ -473,7 +472,7 @@
         </div>
 
       </div>
-    </section><!-- #portfolio -->
+    </section> #portfolio -->
 
     <!--==========================
       Clients Section
@@ -491,49 +490,33 @@
             <div class="owl-carousel testimonials-carousel wow fadeInUp">
     
               <div class="testimonial-item">
-                <img src="img/testimonial-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <img src="img/Harald.jpg" class="testimonial-img" alt="">
+                <h3>Harald Kirschner</h3>
+                <h4>Product Manager Microsoft</h4>
                 <p>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Awesome work by @Farooq_AR, hitting this age-old backlog feature out of the park. Also love the extra polish, putting the SSE/WebSocket data streams into the Response panel.
+
                 </p>
               </div>
     
               <div class="testimonial-item">
-                <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
+                <img src="img/firefox.png" class="testimonial-img" alt="">
+                <h3>Firefox DevTools</h3>
                 <p>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  From Firefox 82 onwards, you can inspect server-sent events (SSE) and their message contents using the Network Monitor. Kudos to @Farooq_AR who implemented this feature!
+
                 </p>
               </div>
     
               <div class="testimonial-item">
-                <img src="img/testimonial-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <p>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                </p>
-              </div>
-    
-              <div class="testimonial-item">
-                <img src="img/testimonial-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <p>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                </p>
-              </div>
-    
-              <div class="testimonial-item">
-                <img src="img/testimonial-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <img src="img/Andrew.jfif" class="testimonial-img" alt="">
+                <h3>Andrew</h3>
                 <h4>Entrepreneur</h4>
                 <p>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  Farooq did an amazing job helping me with an issue on my project. He not only provided a solution but helped me understand the problem. Great communication, fast response, very friendly. I honestly have nothing negative to say. I hope to use his service again in the future.
                 </p>
               </div>
+    
 
             </div>
 
@@ -865,3 +848,4 @@
 
 </body>
 </html>
+
