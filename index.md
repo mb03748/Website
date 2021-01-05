@@ -54,8 +54,9 @@
           <li class="active"><a href="#intro">Home</a></li>
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
+          <!-- <li><a href="#portfolio">Portfolio</a></li> -->
           <li><a href="#team">Team</a></li>
+          <!--
           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
@@ -73,6 +74,7 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li>
+          -->
           <li><a href="#contact">Contact Us</a></li>
         </ul>
       </nav><!-- .main-nav -->
@@ -118,27 +120,27 @@
 
           <div class="col-lg-6 content order-lg-1 order-2">
             <p>
-              Newbiz is a solution-oriented technology company. We help large scale enterprises, medium scale business, and startups to create strategic software products that drive revenue, reduce cost, and transform their businesses and market performance.
+              Newbiz is a client-first, solution-oriented technology company. We help large scale enterprises, medium scale business, and startups to create strategic software products that drive revenue, reduce cost, and transform their businesses and market performance.
 
               Through custom software we empower entrepreneurs, growth companies, enterprises and visionary firms to achieve greater profitability and efficiency, valuation and ultimate success by building the right tools.
             </p>
 
             <div class="icon-box wow fadeInUp">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4 class="title"><a href="">Solutions for your business</a></h4>
+              <p class="description">Your business is dynamic and needs a solution that is not homogeneous. We can help you pave the way for success by architecting and delivering solutions that fit your business needs.</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.2s">
               <div class="icon"><i class="fa fa-photo"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">The Newbiz Advantage</a></h4>
+              <p class="description">Undivided attention and focus are the key aspects that create value. We fully utilize our proven processes to successfully take the first version of your product across the finish line.</p>
             </div>
 
             <div class="icon-box wow fadeInUp" data-wow-delay="0.4s">
               <div class="icon"><i class="fa fa-bar-chart"></i></div>
-              <h4 class="title"><a href="">Data Insights</a></h4>
-              <p class="description">Provide data insights to our clients, so they can make stratergies that boost their performance. </p>
+              <h4 class="title"><a href="">Autonomous Sprint Team</a></h4>
+              <p class="description">Our thoroughly iterated engineering services reduce your time-to-market and enhance your business efficiency and productivity.</p>
             </div>
 
           </div>
@@ -166,15 +168,12 @@
           </div>
 
           <div class="col-lg-6 wow fadeInUp pt-4 pt-lg-0 order-2 order-lg-1">
-            <h4>Neque saepe temporibus repellat ea ipsum et. Id vel et quia tempora facere reprehenderit.</h4>
+            <h4>Our Span.</h4>
             <p>
-             Delectus alias ut incidunt delectus nam placeat in consequatur. Sed cupiditate quia ea quis. Voluptas nemo qui aut distinctio. Cumque fugit earum est quam officiis numquam. Ducimus corporis autem at blanditiis beatae incidunt sunt. 
+              As a company, Newbiz comprises expert team whose members have decades of experience in technical problem-solving, identifying pain points, streamlining workflows, and developing high-performing software applications that spark joy. We help set the standard for development practices, constantly refining and updating our knowledge, skills, and process to provide our clients with the best.
             </p>
             <p>
-              Voluptas saepe natus quidem blanditiis. Non sunt impedit voluptas mollitia beatae. Qui esse molestias. Laudantium libero nisi vitae debitis. Dolorem cupiditate est perferendis iusto.
-            </p>
-            <p>
-              Eum quia in. Magni quas ipsum a. Quis ex voluptatem inventore sint quia modi. Numquam est aut fuga mollitia exercitationem nam accusantium provident quia.
+              Whether it is MedTech, FinTech, EdTech, E-commerce, or an AI powered application for your business, we have all covered for you. No matter which domain you choose, Newbiz will make sure that you reach up to the mark.
             </p>
           </div>
           
@@ -618,7 +617,7 @@
 
     <!--==========================
       Clients Section
-    ============================-->
+    ============================
     <section id="clients" class="section-bg">
 
       <div class="container">
@@ -684,7 +683,7 @@
 
     </section>
 
-    <!--==========================
+    ==========================
       Contact Section
     ============================-->
     <section id="contact">
@@ -848,4 +847,3 @@
 
 </body>
 </html>
-
