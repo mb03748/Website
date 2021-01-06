@@ -190,7 +190,7 @@
 
         <header class="section-header">
           <h3>Services</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+          <p>A glance of what we do.</p>
         </header>
 
         <div class="row">
@@ -198,45 +198,60 @@
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-analytics-outline" style="color: #ff689b;"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Web Development</a></h4>
+              <p class="description">We give you a loud presence on the web with state of the art web technologies. React and Angular on the Frontend. Node, Django on the backend. Powered by robust cloud services such as AWS, Google Cloud and many more.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-bookmarks-outline" style="color: #e9bf06;"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <h4 class="title"><a href="">Mobile Development</a></h4>
+              <p class="description">We develople cutting-edge design and high-performance mobile applications tht drive your business. Using technologies such as Flutter and React Native, our experts build apps that are robust, secure, and scalable</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-paper-outline" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <h4 class="title"><a href="">Desktop Application</a></h4>
+              <p class="description">We build responsive and intuitive Desktop applications focused on providing optimal user experience and high-quality performance, technologies such as Electron and .NET allow us to create a bestfit for your business.</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-speedometer-outline" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <h4 class="title"><a href="">Artificial Intelligence</a></h4>
+              <p class="description">Leverage AI, machine learning, and deep learning to transform your technology strategy, boost revenues, improve operational efficiency, optimize customer service, and respond promptly to emerging issues and trends.</p>
+            </div>
+          </div>
+            
+          <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon"><i class="ion-ios-world-outline" style="color: #d6ff22;"></i></div>
+              <h4 class="title"><a href="">Business Intelligence</a></h4>
+              <p class="description">We build big data strategies aimed at propelling business success, innovation, and driving your competitive advantage. Our experts transform your data into actionable intelligence and knowledge.</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+            <div class="box">
+              <div class="icon"><i class="ion-ios-clock-outline" style="color: #4680ff;"></i></div>
+              <h4 class="title"><a href="">Blockchain Development</a></h4>
+              <p class="description">Blockchain enhances the security, reliability, and speed of transactions, making it ideal for any industry. We helps both startups and enterprises in building a strong digital empire using the decentralized network built on blockchain.</p>
             </div>
           </div>
 
           <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-world-outline" style="color: #d6ff22;"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <h4 class="title"><a href="">IoT Solutions</a></h4>
+              <p class="description">Build a secure scalable IoT ecosystem with sensors to monitor key processes, use IoT solutions to create individual user experiences across the board. Our custom IoT solutions comply with industry standards and approaches</p>
             </div>
           </div>
           <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
             <div class="box">
               <div class="icon"><i class="ion-ios-clock-outline" style="color: #4680ff;"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+              <h4 class="title"><a href="">AR/VR Applications</a></h4>
+              <p class="description">AR/VR solutions can simplify complex operations and give you quick, impactful results. We provide custom 3D application development across different platforms. Solutions for business, education, training, and sales.</p>
             </div>
           </div>
 
