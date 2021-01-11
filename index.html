@@ -125,7 +125,7 @@
               Through custom software we empower entrepreneurs, growth companies, enterprises and visionary firms to achieve greater profitability and efficiency, valuation and ultimate success by building the right tools.
             </p>
 
-            <div class="icon-box wow fadeInUp">
+           <!-- <div class="icon-box wow fadeInUp">
               <div class="icon"><i class="fa fa-shopping-bag"></i></div>
               <h4 class="title"><a href="">Solutions for your business</a></h4>
               <p class="description">Your business is dynamic and needs a solution that is not homogeneous. We can help you pave the way for success by architecting and delivering solutions that fit your business needs.</p>
@@ -141,7 +141,7 @@
               <div class="icon"><i class="fa fa-bar-chart"></i></div>
               <h4 class="title"><a href="">Autonomous Sprint Team</a></h4>
               <p class="description">Our thoroughly iterated engineering services reduce your time-to-market and enhance your business efficiency and productivity.</p>
-            </div>
+            </div>  -->
 
           </div>
 
@@ -267,7 +267,7 @@
       <div class="container">
         <header class="section-header">
           <h3>Why choose us?</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+         <!-- <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p> -->
         </header>
 
         <div class="row row-eq-height justify-content-center">
@@ -276,9 +276,9 @@
             <div class="card wow bounceInUp">
                 <i class="fa fa-diamond"></i>
               <div class="card-body">
-                <h5 class="card-title">Corporis dolorem</h5>
-                <p class="card-text">Deleniti optio et nisi dolorem debitis. Aliquam nobis est temporibus sunt ab inventore officiis aut voluptatibus.</p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">Solutions for your business</h5>
+                <p class="card-text">Your business is dynamic and needs a solution that is not homogeneous. We can help you pave the way for success by architecting and delivering solutions that fit your business needs.</p>
+               <!-- <a href="#" class="readmore">Read more </a> -->
               </div>
             </div>
           </div>
@@ -287,9 +287,9 @@
             <div class="card wow bounceInUp">
                 <i class="fa fa-language"></i>
               <div class="card-body">
-                <h5 class="card-title">Voluptates dolores</h5>
-                <p class="card-text">Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum aspernatur.</p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">The Newbiz Advantage</h5>
+                <p class="card-text">Undivided attention and focus are the key aspects that create value. We fully utilize our proven processes to successfully take the first version of your product across the finish line.</p>
+               <!-- <a href="#" class="readmore">Read more </a>  -->
               </div>
             </div>
           </div>
@@ -298,16 +298,16 @@
             <div class="card wow bounceInUp">
                 <i class="fa fa-object-group"></i>
               <div class="card-body">
-                <h5 class="card-title">Eum ut aspernatur</h5>
-                <p class="card-text">Autem quod nesciunt eos ea aut amet laboriosam ab. Eos quis porro in non nemo ex. </p>
-                <a href="#" class="readmore">Read more </a>
+                <h5 class="card-title">Autonomous Sprint Team</h5>
+                <p class="card-text">Our thoroughly iterated engineering services reduce your time-to-market and enhance your business efficiency and productivity. </p>
+               <!-- <a href="#" class="readmore">Read more </a>  -->
               </div>
             </div>
           </div>
 
         </div>
 
-        <div class="row counters">
+       <!-- <div class="row counters">
 
           <div class="col-lg-3 col-6 text-center">
             <span data-toggle="counter-up">274</span>
@@ -329,7 +329,7 @@
             <p>Hard Workers</p>
           </div>
   
-        </div>
+        </div>  -->
 
       </div>
     </section>
@@ -558,7 +558,7 @@
               <img src="img/team-1.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
+                  <h4>Muhammad Ajlal Bawani</h4>
                   <span>Chief Executive Officer</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -569,7 +569,7 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div>  <!--
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
@@ -605,15 +605,15 @@
                 </div>
               </div>
             </div>
-          </div>
+          </div>  -->
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
             <div class="member">
-              <img src="img/team-4.jpg" class="img-fluid" alt="">
+              <img src="img/farooq.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
+                  <h4>Farooq Abdur Rehman</h4>
+                  <span>Chief Technology Officer</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
                     <a href=""><i class="fa fa-facebook"></i></a>
